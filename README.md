@@ -4,12 +4,12 @@ Welcome to the **DSA-with-Java** repository! This repository is designed to help
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Java Concepts](#java-concepts)
-3. [Data Structures & Algorithms (DSA)](#data-structures--algorithms-dsa)
-4. [How to Use This Repository](#how-to-use-this-repository)
-5. [Resources](#resources)
-6. [Contributing](#contributing)
+1. **Introduction**
+2. **Java Concepts**
+3. **Data Structures & Algorithms (DSA)**
+4. **How to Use This Repository**
+5. **Resources**
+6. **Contributing**
 
 ## Introduction
 
@@ -19,22 +19,22 @@ This repository is a comprehensive guide for mastering Java and DSA. Whether you
 
 In this section, you'll find Java programs that cover fundamental and advanced concepts of Java programming, organized into different categories:
 
-- **[Java Basics](Java-Concepts/01_Basics/)**: Learn the basics of Java, including data types, operators, and control structures.
-- **[Object-Oriented Programming](Java-Concepts/02_ObjectOrientedProgramming/)**: Explore key OOP principles such as classes, objects, inheritance, polymorphism, abstraction, and encapsulation.
-- **[Collections Framework](Java-Concepts/03_Collections/)**: Get familiar with Java's powerful collection classes like List, Set, Map, and Queue.
-- **[Advanced Java](Java-Concepts/04_Advanced/)**: Delve into more complex topics like multitasking, multiprocessing, and multithreading.
+- **Java Basics**: Learn the basics of Java, including data types, operators, and control structures.
+- **Object-Oriented Programming**: Explore key OOP principles such as classes, objects, inheritance, polymorphism, abstraction, and encapsulation.
+- **Collections Framework**: Get familiar with Java's powerful collection classes like List, Set, Map, and Queue.
+- **Advanced Java**: Delve into more complex topics like multitasking, multiprocessing, and multithreading.
 
 ## Data Structures & Algorithms (DSA)
 
 This section covers various data structures and algorithms, complete with Java implementations and explanations:
 
-- **[Arrays](DSA/01_Arrays/)**: Sorting, searching, and other fundamental operations on arrays.
-- **[Linked Lists](DSA/02_LinkedLists/)**: Implementations and operations on singly, doubly, and circular linked lists.
-- **[Stacks](DSA/03_Stacks/)**: Learn about stack data structure and its implementation using arrays and linked lists.
-- **[Queues](DSA/04_Queues/)**: Understand queue operations and their implementations in Java.
-- **[Trees](DSA/05_Trees/)**: Work with binary trees, binary search trees, AVL trees, and tree traversals.
-- **[Graphs](DSA/06_Graphs/)**: Explore graph-related algorithms including BFS, DFS, and shortest path algorithms like Dijkstra.
-- **[Other DSA Topics](DSA/07_OtherDSA/)**: Additional topics like hashing, dynamic programming, greedy algorithms, and backtracking.
+- **Arrays**: Sorting, searching, and other fundamental operations on arrays.
+- **Linked Lists**: Implementations and operations on singly, doubly, and circular linked lists.
+- **Stacks**: Learn about stack data structure and its implementation using arrays and linked lists.
+- **Queues**: Understand queue operations and their implementations in Java.
+- **Trees**: Work with binary trees, binary search trees, AVL trees, and tree traversals.
+- **Graphs**: Explore graph-related algorithms including BFS, DFS, and shortest path algorithms like Dijkstra.
+- **Other DSA Topics**: Additional topics like hashing, dynamic programming, greedy algorithms, and backtracking.
 
 ## How to Use This Repository
 

@@ -1,4 +1,4 @@
-# DSA-with-Java
+# DSA With Java
 
 Welcome to the **DSA-with-Java** repository! This repository is designed to help you learn and implement both core Java concepts and Data Structures & Algorithms (DSA) in Java. It contains well-structured, example-driven content that can serve both beginners and intermediate learners.
 

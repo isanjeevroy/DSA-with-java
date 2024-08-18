@@ -68,6 +68,14 @@ We welcome contributions from the community! If you would like to contribute, pl
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
+## Contributors
+
+A big thank you to the following contributors who have helped improve this repository:
+
+- [Sanjeev Kumar](https://github.com/isaanjeevroy)
+- [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
+
+
 ---
 
 Happy coding!

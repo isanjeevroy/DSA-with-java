@@ -1,4 +1,4 @@
-package Bactracking;
+package bactracking;
 
 public class Nqueens {
     

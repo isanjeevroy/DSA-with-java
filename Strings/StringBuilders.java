@@ -1,4 +1,4 @@
-package Strings;
+package strings;
 public class StringBuilders {
 
     // 1st letter convert into uppercase
